@@ -2,7 +2,7 @@
 
 #### App based on using Refine, MongoDB, Cloudinary, Render
 
-#### [Refine/](https://refine.dev/) 
+#### [Refine](https://refine.dev/) 
 
 A headless framework is a software architecture designed to separate the frontend (user interface) of an application from the backend logic. It allows developers to focus on the backend functionality without being tied to a specific frontend technology or platform. The term "headless" refers to the absence of a traditional user interface, such as a graphical user interface (GUI) or command-line interface (CLI), allowing for more flexibility in the development process. Refining a headless framework involves improving its performance, scalability, and ease of use for developers.
 
