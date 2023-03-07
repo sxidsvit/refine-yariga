@@ -20,7 +20,7 @@ Image and Video API for Powerful Visual Experiences Store, transform, optimize, 
 Render is a unified cloud to build and run all your apps and websites with free TLS certificates, a global CDN, DDoS protection, private networks, and auto deploys from Git. 
 
 
-[Visit site](https://refine-yariga.vercel.app/)
+[Visit site](refine-yariga.netlify.app)
 
 ---
 
